@@ -21,3 +21,5 @@ Ways to sell :
     •	selling length : 1,1,2  ( 2 cuts) , Price: 7
     •	selling length : 2,2  ( 1 cut) , Price: 10
     •	selling length : 3, 1  ( 1 cut) , Price: 9
+
+#####Best Price for rod of length 4: 10
