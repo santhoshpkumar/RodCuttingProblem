@@ -1,6 +1,6 @@
 # RodCuttingProblem
 
-####Java implementaiton of Rod Cutting Problem
+####Java implementation of Rod Cutting Problem
 
 Given a rod of length n inches and a table of prices pi, i=1,2,…,n, write an algorithm to find the maximum revenue rn obtainable by cutting up the rod and selling the pieces.
 
