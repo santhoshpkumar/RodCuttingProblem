@@ -3,7 +3,7 @@ package org.santhoshkumar;
 public class RodCuttingProblem {
 
     public static void main(String[] args) {
-	    int[] spotPrices = { 1,	5,	8,	9,	10,	17,	17,	20,	24,	30 };
+        int[] spotPrices = { 1,	5,	8,	9,	10,	17,	17,	20,	24,	30 };
         int rodLength = 4;
         RodCuttingProblem r = new RodCuttingProblem();
         r.findMaximumProfit(spotPrices,rodLength);
